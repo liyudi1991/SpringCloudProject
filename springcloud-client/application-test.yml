@@ -1,7 +1,7 @@
 #datasource config
 jdbc:
   driverClassName: com.mysql.jdbc.Driver
-  url: jdbc:mysql://localhost:3306/edumanager?useUnicode\=true&characterEncoding\=UTF-8&zeroDateTimeBehavior\=convertToNull&useSSL\=true
+  url: jdbc:mysql://localhost:3306/edumanager?useUnicode\=true&characterEncoding\=UTF-8&zeroDateTimeBehavior\=convertToNull&useSSL\=false
   username: root
   password: 19910511
 
